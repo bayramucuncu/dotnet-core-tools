@@ -6,5 +6,6 @@
     &lt;TestId&gt;NUnit3x::34A30B86-2209-4D3D-B1EC-B09FA08960A0::net8.0::RegexFilters.Tests.CreditCardContentFilterTests.ContentFilter_Matches_ReplacesMatchedRegexContentOfInput&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::34A30B86-2209-4D3D-B1EC-B09FA08960A0::net8.0::RegexFilters.Tests.CreditCardContentFilterTests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::34A30B86-2209-4D3D-B1EC-B09FA08960A0::net8.0::RegexFilters.Tests.IbanContentFilterTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::34A30B86-2209-4D3D-B1EC-B09FA08960A0::net8.0::RegexFilters.Tests.ContentFilterPipelineTests.Process_WithPipelines_ReplacesInputs&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
