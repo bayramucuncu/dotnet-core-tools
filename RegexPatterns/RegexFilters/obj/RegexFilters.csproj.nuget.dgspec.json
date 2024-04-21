@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/RegexFilters.csproj": {}
+    "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/RegexFilters.csproj": {}
   },
   "projects": {
-    "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/RegexFilters.csproj": {
+    "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/RegexFilters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/RegexFilters.csproj",
+        "projectUniqueName": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/RegexFilters.csproj",
         "projectName": "RegexFilters",
-        "projectPath": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/RegexFilters.csproj",
+        "projectPath": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/RegexFilters.csproj",
         "packagesPath": "/Users/bayram/.nuget/packages/",
-        "outputPath": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/obj/",
+        "outputPath": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bayram/.nuget/NuGet/NuGet.Config"

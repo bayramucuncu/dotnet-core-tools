@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JCb4K4ag2FkmE8wKftJaXZ6+D9WNSEvEtRBIw+o360statG1e1Rp4ehjHRgeIdxILUT/OHz0VnzT2uoJSktVHQ==",
+  "dgSpecHash": "Yw97jsUrHQ+4uHe3dRuilwKCL3zqSi0daOPTMcR8B17grBouNU38niRru2KPIlc4oDcXF9Jj/YWT69jN8WbUSw==",
   "success": true,
-  "projectFilePath": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters.Tests/RegexFilters.Tests.csproj",
+  "projectFilePath": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters.Tests/RegexFilters.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/bayram/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
     "/Users/bayram/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",

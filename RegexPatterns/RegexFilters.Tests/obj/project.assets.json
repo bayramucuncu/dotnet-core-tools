@@ -697,11 +697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters.Tests/RegexFilters.Tests.csproj",
+      "projectUniqueName": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters.Tests/RegexFilters.Tests.csproj",
       "projectName": "RegexFilters.Tests",
-      "projectPath": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters.Tests/RegexFilters.Tests.csproj",
+      "projectPath": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters.Tests/RegexFilters.Tests.csproj",
       "packagesPath": "/Users/bayram/.nuget/packages/",
-      "outputPath": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters.Tests/obj/",
+      "outputPath": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bayram/.nuget/NuGet/NuGet.Config"
@@ -716,8 +716,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/RegexFilters.csproj": {
-              "projectPath": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/RegexFilters.csproj"
+            "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/RegexFilters.csproj": {
+              "projectPath": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/RegexFilters.csproj"
             }
           }
         }

@@ -9,3 +9,15 @@
 /Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/obj/Debug/net8.0/refint/RegexFilters.dll
 /Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/obj/Debug/net8.0/RegexFilters.pdb
 /Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/obj/Debug/net8.0/ref/RegexFilters.dll
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/bin/Debug/net8.0/RegexFilters.deps.json
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/bin/Debug/net8.0/RegexFilters.dll
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/bin/Debug/net8.0/RegexFilters.pdb
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/RegexFilters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/RegexFilters.AssemblyInfoInputs.cache
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/RegexFilters.AssemblyInfo.cs
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/RegexFilters.csproj.CoreCompileInputs.cache
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/RegexFilters.sourcelink.json
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/RegexFilters.dll
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/refint/RegexFilters.dll
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/RegexFilters.pdb
+/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/obj/Debug/net8.0/ref/RegexFilters.dll

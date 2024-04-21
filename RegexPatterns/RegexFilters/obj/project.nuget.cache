@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VBrL8hKSPYotIhV5KbxZIXBjyTSyT2LPpyiXz5i8YIbiwX1koU+gtHsnou/KnPBiYukdLo0CKFsk4aqNKlzzWg==",
+  "dgSpecHash": "FKXdYOgnix5ef1RzpIsuluwRZygLEJM0OiHIoDfvkSKlI/1POTc49KwrWeRgOLz8nGr2OF7J5mZq3KDKDMF3Hw==",
   "success": true,
-  "projectFilePath": "/Users/bayram/Projects/RiderProjects/RegexPatterns/RegexFilters/RegexFilters.csproj",
+  "projectFilePath": "/Users/bayram/Projects/RiderProjects/dotnet-core-tools/RegexPatterns/RegexFilters/RegexFilters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
